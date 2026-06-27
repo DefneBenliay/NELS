@@ -1304,7 +1304,7 @@ class MainWindow(QMainWindow):
             "SPORTS: [255, 165, 0],<br>"         
             "GREEN: [0, 128, 0],<br>"            
             "ENTRANCE: [0, 0, 0]</p>"
-            "<p>contact: benliay@akdeniz.edu.tr</p>"
+            "<p>contact: Removed for publication and peer reviewing purposes. </p>"
         )
 
     def open_node_placement_configurator(self):
